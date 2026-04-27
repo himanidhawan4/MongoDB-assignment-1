@@ -1,4 +1,4 @@
-# testrepo
+# MongoDB assinment 1
 # Assignment: Event Management & Ticketing System (MongoDB Project)
 # Objective: Design a backend MongoDB schema for managing events, ticketing, and userinteractions such as browsing, booking, and managing tickets.
 # Collection Descriptions:
